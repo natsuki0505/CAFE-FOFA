@@ -111,10 +111,9 @@ header nav ul {
   padding: 0 5px;
 }
 
-.news-title {
+.news span {
   font-size : 14px;
   color: #6495ed;
-  margin-left: 0.2rem;
 }
 
 /* アクセス */
